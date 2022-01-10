@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on companies that want to give me an opportunity.
 - 💬 Ask me about everything, I like to know new things.
 - 📫 How to reach me: https://www.linkedin.com/in/felipe-marcelino/ or felipe99marcelino@hotmail.com
-- ⚡ Fun fact: sometimes I cry watching animes.
+- ⚡ Fun fact: I used google translate to write this topic.
 
 <div align="center">
   <a href="https://github.com/felipemarcelino99">
