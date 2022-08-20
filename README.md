@@ -1,8 +1,6 @@
 ### Hello, World! I'm Felipe Marcelino 👋
 
-- 🔭 I’m currently open to work.
 - 🌱 I’m currently learning VueJS, C# and UI/UX Design.
-- 👯 I’m looking to collaborate on companies that want to give me an opportunity.
 - 💬 Ask me about everything, I like to know new things.
 - 📫 How to reach me: https://www.linkedin.com/in/felipe-marcelino/ or felipe99marcelino@hotmail.com
 - ⚡ Fun fact: I used google translate to write this topic.
