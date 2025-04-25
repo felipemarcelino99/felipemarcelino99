@@ -23,7 +23,7 @@ PHP:
 MySQL:  
 • Relational database modeling. 
 • Query optimization. 
-• CRUD operations.  
+• CRUD operations.   
 
 Others:  
 • Git / GitHub / Bitbucket.  
