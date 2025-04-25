@@ -35,6 +35,7 @@ Others:
 💬 Always curious and eager to learn new technologies and best practices.
 
 📫 Feel free to reach out:
+
 LinkedIn -  https://www.linkedin.com/in/felipe-marcelino/
 
 E-mail - felipe99marcelino@hotmail.com
