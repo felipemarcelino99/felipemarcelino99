@@ -1,11 +1,15 @@
-# 💫 About Me:
+# 💫 Hello, World! I'm Felipe Marcelino
 
-💻 Full Stack Developer
-3 years of experience building web and mobile applications with a strong focus on performance, security, and user experience.
+💻 Full Stack Developer  
+With 3 years of experience building responsive web and mobile applications, focused on performance, security, and great user experiences.
 
-🌱 Currently expanding my skills with Laravel and Angular.
+🎓 I'm currently in the final semester of my Bachelor's degree in Information Technology at Univesp (Virtual University of São Paulo).
 
-💬 Always curious and eager to learn new technologies and best practices.
+🌱 Currently learning Laravel and Angular.  
+
+💬 Curious by nature, always eager to explore new technologies and improve my skills.  
+
+🚀 Open to new challenges and collaborations!
 
 ---
 
