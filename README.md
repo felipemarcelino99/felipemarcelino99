@@ -6,28 +6,28 @@
 
 React / React Native:  
 • Redux / Context API. 
-• Next.js. 
+• Next.js.  
 • React Hook Form.  
-• Zod. 
-• Tailwind CSS. 
+• Zod.  
+• Tailwind CSS.  
 
 JavaScript / TypeScript:  
 • ES6+  
 • Node.js. 
 
 PHP:  
-• MVC Architecture. 
-• POO. 
+• MVC Architecture.  
+• POO.  
 • API integration. 
 
 MySQL:  
 • Relational database modeling. 
 • Query optimization. 
-• CRUD operations. 
+• CRUD operations.  
 
 Others:  
-• Git / GitHub / Bitbucket. 
-• SEO / PageSpeed optimization. 
+• Git / GitHub / Bitbucket.  
+• SEO / PageSpeed optimization.  
 • Responsive and accessible interfaces. 
 
 🌱 Currently expanding my skills with Laravel and Angular.
