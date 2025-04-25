@@ -5,9 +5,9 @@
 🛠️ I work with:
 
 React / React Native:  
-• Redux / Context API. 
-• Next.js.  
-• React Hook Form.  
+• Redux / Context API.<br>
+• Next.js.<br>
+• React Hook Form.<br>
 • Zod.  
 • Tailwind CSS.  
 
@@ -21,9 +21,9 @@ PHP:
 • API integration. 
 
 MySQL:  
-• Relational database modeling. 
-• Query optimization. 
-• CRUD operations.   
+• Relational database modeling.<br>
+• Query optimization.<br>
+• CRUD operations.<br>
 
 Others:  
 • Git / GitHub / Bitbucket.  
