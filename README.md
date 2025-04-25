@@ -1,41 +1,51 @@
 ### Hello, World! I'm Felipe Marcelino 👋
+# 💻 Full Stack Developer
 
-💻 Full Stack Developer with 3 years of experience building web and mobile applications, focusing on performance, security, and user experience.
+3 years of experience building **web and mobile applications** with a strong focus on **performance**, **security**, and **user experience**.
 
-🛠️ I work with:
+---
 
-React / React Native:  
-• Redux / Context API.<br>
-• Next.js.<br>
-• React Hook Form.<br>
-• Zod.  
-• Tailwind CSS.  
+## 🛠️ Tech Stack
 
-JavaScript / TypeScript:  
-• ES6+  
-• Node.js. 
+### ⚛️ React / React Native
+- Redux / Context API  
+- Next.js  
+- React Hook Form  
+- Zod  
+- Tailwind CSS  
 
-PHP:  
-• MVC Architecture.  
-• POO.  
-• API integration. 
+### 📜 JavaScript / TypeScript
+- ES6+  
+- Node.js  
 
-MySQL:  
-• Relational database modeling.<br>
-• Query optimization.<br>
-• CRUD operations.<br>
+### 🐘 PHP
+- MVC Architecture  
+- Object-Oriented Programming (OOP)  
+- API Integration  
 
-Others:  
-• Git / GitHub / Bitbucket.  
-• SEO / PageSpeed optimization.  
-• Responsive and accessible interfaces. 
+### 🗄️ MySQL
+- Relational Database Modeling  
+- Query Optimization  
+- CRUD Operations  
 
-🌱 Currently expanding my skills with Laravel and Angular.
+### 🧰 Others
+- Git / GitHub / Bitbucket  
+- SEO / PageSpeed Optimization  
+- Responsive and Accessible Interfaces  
 
-💬 Always curious and eager to learn new technologies and best practices.
+---
 
-📫 Feel free to reach out:
+## 🌱 Currently Learning
+Expanding my skills with **Laravel** and **Angular**.
 
-LinkedIn -  https://www.linkedin.com/in/felipe-marcelino/
+---
 
-E-mail - felipe99marcelino@hotmail.com
+## 💬 About Me
+Always curious and eager to learn new technologies and best practices.
+
+---
+
+## 📫 Get in Touch
+
+[🔗 LinkedIn](https://www.linkedin.com/in/felipe-marcelino/)  
+✉️ Email: felipe99marcelino@hotmail.com
