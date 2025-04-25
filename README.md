@@ -4,31 +4,31 @@
 
 🛠️ I work with:
 
-React / React Native:
-• Redux / Context API
-• Next.js
-• React Hook Form
-• Zod
-• Tailwind CSS
+React / React Native:  
+• Redux / Context API. 
+• Next.js. 
+• React Hook Form.  
+• Zod. 
+• Tailwind CSS. 
 
-JavaScript / TypeScript:
-• ES6+
-• Node.js
+JavaScript / TypeScript:  
+• ES6+  
+• Node.js. 
 
-PHP:
-• MVC Architecture
-• POO
-• API integration
+PHP:  
+• MVC Architecture. 
+• POO. 
+• API integration. 
 
-MySQL:
-• Relational database modeling
-• Query optimization
-• CRUD operations
+MySQL:  
+• Relational database modeling. 
+• Query optimization. 
+• CRUD operations. 
 
-Others:
-• Git / GitHub / Bitbucket
-• SEO / PageSpeed optimization
-• Responsive and accessible interfaces
+Others:  
+• Git / GitHub / Bitbucket. 
+• SEO / PageSpeed optimization. 
+• Responsive and accessible interfaces. 
 
 🌱 Currently expanding my skills with Laravel and Angular.
 
